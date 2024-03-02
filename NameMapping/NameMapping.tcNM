@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{E82D47F8-A705-4F82-BA32-91996B7D3326}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{B17002CA-CD30-4112-BDB6-420DC0ED32E3}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageReflexTest" Key="{B0B9960B-BE72-4EEE-86F8-1D8AD01838F9}">
+								<Image FileName="779290933" Left="0" Top="87" Right="1920" Bottom="402" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://grb.poc.reflex-logistics.com/reflex/env/test" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textboxUser" Key="{19CC5A17-5B4E-4BDA-91DD-D2829F85AFBC}" ExtendedFind="True">
+										<Image FileName="779290933" Left="726" Top="270" Right="934" Bottom="291" />
+										<TypeInfo Item0="{7F896FFA-F8C3-4DD1-8A16-A5601C0312FD}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Textbox" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="user" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{313E4AF6-A578-404B-8C24-13E6F93AF3F4}" ExtendedFind="True">
+										<Image FileName="-447242291" Left="954" Top="270" Right="1162" Bottom="291" />
+										<TypeInfo Item0="{7F896FFA-F8C3-4DD1-8A16-A5601C0312FD}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="PasswordBox" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="password" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="panelGreatBearReflex" Key="{382AE7BE-DCDE-4272-B383-4D71B6F97BC6}" ExtendedFind="True">
+										<Image FileName="779290933" Left="716" Top="173" Right="1204" Bottom="316" />
+										<TypeInfo Item0="{3FCF8601-ABEB-4162-BB12-C85ECE3E709E}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="contentText">
+												<Value Value="470072006500610074002000420065006100720020002D0020005200650066006C00650078000A00410075007400680065006E007400690063006100740069006F006E0020006600610069006C00650064002000280049006E0063006F00720072006500630074002000700072006F00660069006C00650020006F0072002000700061007300730077006F007200640029002E000A004300680061006E0067006500200079006F00750072002000700061007300730077006F0072006400" Type="7" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value Value="0" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="buttonG7c" Key="{18AB8A4B-6633-44D3-B590-854EB809C4E2}" ExtendedFind="True">
+										<Image FileName="1237241234" Left="1763" Top="92" Right="1801" Bottom="120" />
+										<TypeInfo Item0="{6C859CFB-E7A7-419A-A1F1-EDC3F1E92039}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="19g7c" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="buttonYes" Key="{40AE5C0F-E643-415D-A103-0A1BD9864B42}" ExtendedFind="True">
+										<Image FileName="-21416495" Left="955" Top="649" Right="1045" Bottom="669" />
+										<TypeInfo Item0="{6C859CFB-E7A7-419A-A1F1-EDC3F1E92039}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="contentText">
+												<Value Value="Yes" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageReflexTest2" Key="{B4B42F04-72F6-4EFF-9D27-CEA500005EA9}">
+								<TypeInfo Item0="{0B0C897F-120A-4839-BB6D-3D25EAE2556E}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://grb.poc.reflex-logistics.com/reflex/logout.jsp" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="linkNewSession" Key="{1E3621DC-8412-4DF1-BB48-7F11592DBCC0}" ExtendedFind="True">
+										<Image FileName="-378493810" Left="913" Top="549" Right="1004" Bottom="567" />
+										<TypeInfo Item0="{3FCF8601-ABEB-4162-BB12-C85ECE3E709E}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Link" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="link" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{B17002CA-CD30-4112-BDB6-420DC0ED32E3}">
+			<Child Name="pageReflexTest" Owner="{B0B9960B-BE72-4EEE-86F8-1D8AD01838F9}">
+				<Child Name="textboxUser" Owner="{19CC5A17-5B4E-4BDA-91DD-D2829F85AFBC}" />
+				<Child Name="passwordboxPassword" Owner="{313E4AF6-A578-404B-8C24-13E6F93AF3F4}" />
+				<Child Name="panelGreatBearReflex" Owner="{382AE7BE-DCDE-4272-B383-4D71B6F97BC6}" />
+				<Child Name="buttonG7c" Owner="{18AB8A4B-6633-44D3-B590-854EB809C4E2}" />
+				<Child Name="buttonYes" Owner="{40AE5C0F-E643-415D-A103-0A1BD9864B42}" />
+			</Child>
+			<Child Name="pageReflexTest2" Owner="{B4B42F04-72F6-4EFF-9D27-CEA500005EA9}">
+				<Child Name="linkNewSession" Owner="{1E3621DC-8412-4DF1-BB48-7F11592DBCC0}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
