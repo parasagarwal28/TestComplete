@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{1C570A33-5FCF-472D-B1FA-34D76190A324}">
+	<children>
+		<child name="HardisReflexDemo" key="{6A36F027-76DF-4A39-9497-96980AF9B60B}" path="HardisReflexDemo.mds" />
+	</children>
+	<testItems key="{BF81764C-1DF7-43A3-84FD-3A86F5FA8EE4}">
+		<children>
+			<testItem key="{6A36F027-76DF-4A39-9497-96980AF9B60B}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{25D8D6F7-DA11-4938-ADC2-BD48B0D3EC57}" />
+	<analysis key="{0AE07E84-AAD0-40B7-98F3-260EDAD0FCC0}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
